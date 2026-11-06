@@ -1,0 +1,22 @@
+{
+  "wheel_id": 704,
+  "structure": "umbrella",
+  "slug": "earthmovingtoowoomba-117",
+  "project": "earthmoving-services-toowoomba-diy-vs-professional-9d867718fd5b",
+  "parent_t1_ref": "earthmovingtoowoomba-158",
+  "node_role": "feeder",
+  "money_target": "earthmovingtoowoomba.com.au",
+  "primary_kw": "earthmoving services toowoomba diy vs professional",
+  "intended_url": "https://sitesau.github.io/earthmovingtoowoomba-117/",
+  "tier": "T2",
+  "writeback_nonce": "73213042dfc659c8",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/earthmoving-services-toowoomba-maintenance-9ebaf1b3cb67d93c59b5/",
+      "anchor": "earthmoving services toowoomba maintenance",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
